@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Android, Linux, Hacking**
 
-- 📫 How to reach me **ramadhanib27@gmail.com**
+- 📫 How to reach me **ramadhanib271@gmail.com**
 
 - ⚡ Fun fact **PUBG MOBILE player**
 
