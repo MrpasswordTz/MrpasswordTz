@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrpasswordtz" alt="mrpasswordtz" /></a> </p>
 
-- 💬 Ask me about **Android, Linux, Hacking**
+- 💬 Ask me about **Android, Linux, Hacking, Network, Computer**
 
 - 📫 How to reach me **ramadhanib271@gmail.com**
 
