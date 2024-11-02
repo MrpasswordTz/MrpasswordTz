@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrpasssword_tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpasssword_tz" height="30" width="40" /></a>
+<a href="https://x.com/mrpassword_tz?t=j08xgXo88du16_RNh8OLrw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpasssword_tz" height="30" width="40" /></a>
 <a href="https://fb.com/mrpassword_tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrpassword_tz" height="30" width="40" /></a>
 <a href="https://instagram.com/mrpassword_tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrpassword_tz" height="30" width="40" /></a>
 <a href="https://discord.gg/mrpasswordtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrpasswordtz" height="30" width="40" /></a>
