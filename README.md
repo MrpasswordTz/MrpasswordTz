@@ -1,7 +1,7 @@
 [![materHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW93MHB2ajJvODZkN2c2aDBzbWo1MnIycmt5M25sYjd5M2l5bThnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif)
 <h1 align="center">Hi 👋, I'm MrpasswordTz</h1>
 <h3 align="center">A Ethical Hacker from from Tanzania</h3>
-<img align="right" alt="Hacking" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<!--<img align="right" alt="Hacking" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrpasswordtz" alt="mrpasswordtz" /></a> </p>
 
