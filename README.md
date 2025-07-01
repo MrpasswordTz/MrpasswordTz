@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 <𝚌𝚘𝚍𝚎>MrPasswordTZ</𝚌𝚘𝚍𝚎> 👨‍💻</h1>
+<h1 align="center">MrPasswordTZ</𝚌𝚘𝚍𝚎> 👨‍💻</h1>
 <h3 align="center">⚡ Cybersecurity Specialist | Ethical Hacker | Bug Bounty Hunter ⚡</h3>
 
 <p align="center">
