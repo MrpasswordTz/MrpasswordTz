@@ -134,7 +134,7 @@ nmap -sV -sC -O -T4 -A -v target.com
 ---
 
 <p align="center">
-  <img src="https://github.com/mrpasswordtz/mrpasswordtz/raw/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://github.com/" alt="snake gif"/>
 </p>
 
 <p align="center">
