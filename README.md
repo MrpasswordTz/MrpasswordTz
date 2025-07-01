@@ -140,5 +140,3 @@ nmap -sV -sC -O -T4 -A -v target.com
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random hacking quote"/>
 </p>
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
