@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrpasswordtz&theme=onedark&row=1&column=6" alt="mrpasswordtz"/>
-</p>
+
 
 ---
 
