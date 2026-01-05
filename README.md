@@ -70,20 +70,6 @@ print(me)
 </p>
 
 ---
-
-### 📊 **Hacking Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpasswordtz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpasswordtz&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpasswordtz&layout=compact&theme=radical&hide_border=true" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrpasswordtz&theme=radical" width="50%"/>
-</p>
-
----
-
 ### 🎯 **Hacking Achievements**
 - 🏆 Ranked in Top 1% on TryHackMe
 - 🔓 Found critical vulnerabilities in Fortune 500 companies
