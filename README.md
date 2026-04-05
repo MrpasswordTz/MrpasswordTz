@@ -1,127 +1,41 @@
-<h1 align="center">MrPasswordTZ</𝚌𝚘𝚍𝚎> 👨‍💻</h1>
-<h3 align="center">⚡ Cybersecurity Specialist | Ethical Hacker | Bug Bounty Hunter ⚡</h3>
+<h1 align="center">Hi 👋, I'm MrpasswordTz</h1>
+<h3 align="center">A passionate Cyber Security Researcher from Tanzania</h3>
 
-<p align="center">
-  <a href="https://twitter.com/mrpassword_tz" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="mrpassword_tz"/>
-  </a>
-  <a href="https://linkedin.com/in/mrpasswordtz" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="mrpasswordtz"/>
-  </a>
-  <a href="https://instagram.com/mrpassword_tz" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="mrpassword_tz"/>
-  </a>
-  <a href="https://tryhackme.com/p/MrPasswordTZ" target="blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
-  </a>
-  <a href="https://hackthebox.com/profile/XXXXXX" target="blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00.svg?style=for-the-badge&logo=HackTheBox&logoColor=black"/>
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpasswordtz&label=Profile%20views&color=0e75b6&style=flat" alt="mrpasswordtz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrpasswordtz" alt="mrpasswordtz" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/x.com/mrpassword_tz" target="blank"><img src="https://img.shields.io/twitter/follow/x.com/mrpassword_tz?logo=twitter&style=for-the-badge" alt="x.com/mrpassword_tz" /></a> </p>
+
+- 🔭 I’m currently working on [leakhunter](https://github.com/MrpasswordTz/leakhunter.git)
+
+- 🌱 I’m currently learning **Cyber Security**
+
+- 👯 I’m looking to collaborate on [leakhunter](https://github.com/MrpasswordTz/leakhunter.git)
+
+- 🤝 I’m looking for help with [leakhunter](https://github.com/MrpasswordTz/leakhunter.git)
+
+- 👨‍💻 All of my projects are available at [https://github.com/MrpasswordTz](https://github.com/MrpasswordTz)
+
+- 💬 Ask me about **linux, web hacking**
+
+- 📫 How to reach me **darksociety45@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/x.com/mrpassword_tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/mrpassword_tz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrpassword-tz-6bbba8349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrpassword-tz-6bbba8349/" height="30" width="40" /></a>
+<a href="https://instagram.com/instagram.com/mrpassword_tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/mrpassword_tz" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrpasswordtz&label=Profile+Views&color=blue&style=flat-square" alt="mrpasswordtz"/>
-  <img src="https://img.shields.io/github/followers/mrpasswordtz?label=Followers&style=social" alt="mrpasswordtz"/>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white"/>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mrpassword_tz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrpassword_tz" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpasswordtz&show_icons=true&locale=en&layout=compact" alt="mrpasswordtz" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpasswordtz&show_icons=true&locale=en" alt="mrpasswordtz" /></p>
 
-### 🔥 **About Me**
-```python
-class EthicalHacker:
-    def __init__(self):
-        self.name = "MrPasswordTZ"
-        self.country = "Tanzania 🇹🇿"
-        self.role = "Cybersecurity Specialist"
-        self.skills = [
-            "Penetration Testing",
-            "Vulnerability Assessment",
-            "Network Security",
-            "Web App Security",
-            "Digital Forensics",
-            "Malware Analysis"
-        ]
-        
-    def __str__(self):
-        return f"{self.name} | {self.role}"
-
-me = EthicalHacker()
-print(me)
-```
-
----
-
-### 🛠 **My Cyber Arsenal**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,c,js,php,html,css,react,mysql,mongodb,aws,cloudflare,tensorflow,git,github" />
-</p>
-
-#### **Favorite Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white"/>
-</p>
-
----
-### 🎯 **Hacking Achievements**
-- 🏆 Ranked in Top 1% on TryHackMe
-- 🔓 Found critical vulnerabilities in Fortune 500 companies
-- 🚀 Contributed to open-source security tools
-- 📝 Published security research papers
-
----
-
-### 📜 **Certifications**
-- eJPT (eLearnSecurity Junior Penetration Tester)
-- CEH (Certified Ethical Hacker)
-- OSCP (In Progress)
-
----
-
-### 🔥 **Latest Hack**
-```bash
-nmap -sV -sC -O -T4 -A -v target.com
-# Discovered critical RCE vulnerability (CVE-2023-XXXXX)
-# Reported to company's bug bounty program
-# Awarded $5,000 bounty
-```
-
----
-
-### 💻 **Current Projects**
-- Developing an automated penetration testing framework
-- Creating cybersecurity training materials for beginners
-- Building a threat intelligence platform
-
----
-
-### 📫 **How to Reach Me**
-<p align="center">
-  <a href="mailto:contact@mrpasswordtz.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/mrpasswordtz">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://keybase.io/mrpasswordtz">
-    <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MrpasswordTz/MrpasswordTz/output/github-contribution-grid-snake2.svg
-"/>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random hacking quote"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpasswordtz&" alt="mrpasswordtz" /></p>
